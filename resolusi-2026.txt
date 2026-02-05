@@ -1,0 +1,12 @@
+Resolutions for 2026
+1. Start earning income through freelance work.
+2. Improve my web development skills by learning and practicing:
+    - HTML -> DONE
+    - CSS -> DONE
+    - Bootstrap -> DONE
+    - GitHub
+    - Javascript
+    - Laravel/React
+    - PHP
+    - MySQL -> Need Review
+    - Tailwind
