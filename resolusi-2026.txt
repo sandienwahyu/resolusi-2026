@@ -4,7 +4,7 @@ Resolutions for 2026
     - HTML -> DONE
     - CSS -> DONE
     - Bootstrap -> DONE
-    - GitHub
+    - GitHub -> In progress
     - Javascript
     - Laravel/React
     - PHP
