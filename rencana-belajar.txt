@@ -3,9 +3,7 @@ Rencana belajar:
 - CSS (DONE)
 - Tailwind
 - Git & Github (In progress)
-- Javascript
+- Javascript (belajar materi dasar)
 - React JS
-- Next JS
-- Node JS
 - PostgreSQL
 - Buat linkedin
