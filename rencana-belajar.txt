@@ -1,8 +1,8 @@
 Rencana belajar:
-- HTML
-- CSS
+- HTML (DONE)
+- CSS (DONE)
 - Tailwind
-- Git & Github
+- Git & Github (In progress)
 - Javascript
 - React JS
 - Next JS
