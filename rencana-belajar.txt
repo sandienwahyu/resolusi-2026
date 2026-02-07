@@ -1,0 +1,10 @@
+Rencana belajar:
+- HTML
+- CSS
+- Tailwind
+- Git & Github
+- Javascript
+- React JS
+- Next JS
+- Node JS
+- PostgreSQL
