@@ -5,6 +5,4 @@ Rencana belajar:
 - Git & Github (In progress)
 - Javascript (belajar materi dasar)
 - React JS
-- Next JS
-- Node JS
 - PostgreSQL
